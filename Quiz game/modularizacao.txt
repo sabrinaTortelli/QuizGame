@@ -1,0 +1,63 @@
+Modularização em C/C++
+13
+RC 5
+Qual a diferença entre invocar e chamar uma função?
+Nenhuma
+RC 20
+Como é chamada a variável que irá receber um valor em uma função (ou método)?
+Parâmetro
+RC 20
+Como é chamado o valor (que pode originar de uma variável ou expressão) que é passada para a função no momento que ela é chamada?
+Argumento
+RC 5
+Que tipo de variável não deve ser utlizada que não representa uma boa prátca em programação?
+Global
+RC 20
+Qual palavra devemos utilizar em C++ para garantir que uma variável não seja modificada pela função?
+Const
+VF 10
+Caso a pilha de chamada (call stack) ocupar mais espaço do que foi separado a ela, será exibido um erro chamado "RunTimeException". (V/F)
+F
+VF 20
+Uma variável local é assim chamada pois é declarada dentro de uma função e só existe durante a execução desta função. (V/F)
+V
+VF 10
+Na passagem de parâmetro por referência o argumento pode ser uma expressão, uma literal ou uma variável. (V/F)
+F
+VF 5
+Na passagem de parâmetro por referência a função recebe o endereço de memória da variável original (a própria variável). (V/F)
+V
+ME 10
+Qual das opções abaixo produz linguagem de montagem a partir do código fonte?
+4
+compilador
+montador
+ligador
+processador
+A
+ME 10
+Qual das opções abaixo produz código objeto a partir da tradução da linguagem de montagem (assembler)?
+4
+compilador 
+montador
+processador
+ligador
+B
+ME 10
+Qual das opções abaixo produz código de máquina (código executável) a partir da ligação de um ou mais códigos?
+4
+montador
+processador
+compilador
+ligador
+D
+ME 20
+Qual dos laços abaixo deve ser utilizado quando não soubermos exatamente quantas vezes o laço deve ser repetido, o teste deve ser feito antes de iniciar a execução de um bloco de comandos e houver casos em que o laço não deva ser repetido nenhuma vez?
+4
+do while()
+while()
+for()
+const()
+B
+
+ 

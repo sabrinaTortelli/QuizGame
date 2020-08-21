@@ -1,0 +1,42 @@
+Alocação Dinâmica em C/C++
+8
+RC 20
+int* pointer = nullptr; - pointer está apontando para um endereço...
+Nulo
+RC 20
+Que método permite realocar um novo bloco de memória?
+realloc
+VF 5
+Um ponteiro é uma variável cujo o valor é o endereço de outra variável. (V/F)
+V
+VF 10
+Memory Leaking significa estouro de memória. (V/F)
+V
+VF 5
+Alocação dinâmica de memória ocorre em tempo de compilação. (V/F)
+F
+ME 10
+O que é memória heap?
+4
+é considerado dinâmico, não impõe um modelo, um padrão de alocação de memória
+não flexível e muito efeciente
+empilha endereços dos métodos chamados, argumentos e suas variáveis locais
+é uma forma otimizada para organizar dados na memória alocados em sequência e abandonados em sequência invertida a da entrada
+A
+ME 20
+Qual das alternativas representa: o valor da variável apontada por pointer é incrementado.
+4
+*pointer++
+(*pointer)++
+++pointer*
+*pointer**
+B
+ME 10
+Escolha a alternativa errada:
+4
+sizeof(int) - retorna o tamanho em bytes ocupado por uma variável int
+memória heap são variáveis alocadas dinamicamente
+int* pointer = nullptr; - pointer é uma variável do tipo ponteiro para int
+realloc não apenas aloca um bloco de memória como malloc, mas também inicializa a memória alocada com zeros
+D
+

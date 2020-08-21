@@ -1,0 +1,47 @@
+POO - Herança
+10
+RC 10
+Considerando que, a classe Student é herdada da classe Person, qual classe é mais reutilizável?
+Person
+RC 20 
+Qual o conceito de polimorfismo que consiste em criar variações de um mesmo método?
+Overload 
+RC 20
+Entidades de tipos diferentes podem ser acessadas através de uma única interface. Qual operação foi citada?
+Polimorfismo
+RC 10
+Para quem devemos pedir a destruição de um objeto?
+Destrutor
+VF 5
+A herança permite basear uma nova classe na definição de outra classe. (V/F)
+V
+VF 10
+Polimorfismo de inclusão permite a um objeto pertencer a várias classes simultaneamente, criando uma hierarquia de herança. (V/F)
+V
+VF 5
+Herança significa ter o mesmo código e o mesmo comportamento. (V/F)
+F
+ME 10
+Segundo Deitel (2010), em POO, o conceito que permite escrever programas que processam objetos que compartilham a mesma superclasse (direta e indiretamente) como se todos fossem objetos dessa superclase, é conhecido como:
+4
+associação
+polimorfismo
+atributo
+encapsulamento
+B
+ME 10
+Sobre classe abstrata:
+4
+é uma abstração insuficiente para ser instanciada diretamente no domínio do negócio ou em uma implementação.
+é uma abstração que representa objetos reais prontos para serem utilizados.
+podem ser instanciadas, não servindo para que outras classes usem-a como modelo.
+nenhuma das alternativas estão corretas.
+A
+ME 10
+Qual o tipo de ligação necessário para o polimorfismo que invoca o método somente em tempo de execução?
+4
+Ligação estática
+Ligação Tardia
+Ligação Dinâmica
+As alternativas B e C estão corretas
+D

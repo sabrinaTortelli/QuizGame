@@ -1,0 +1,38 @@
+POO - Classes e objetos em Java
+7
+RC 20
+Nomeie o seguinte conceito: "Define os atributos e comportamentos comuns."
+Classe
+RC 20
+Para quem devemos pedir a criação de um novo objeto?
+Construtor
+VF 5
+O construtor define os atributos e comportamentos compartilhados por um tipo de objeto. (V/F)
+F
+VF 5
+Construtor é um método usado para inicializar objetos durante a instanciação. (V/F)
+V
+ME 10
+A proteção de atributos e operações das classes, fazendo com que estas se comuniquem com o meio externo por meio de suas interfaces, define o conceito de:
+4
+polimorfismo
+encapsulamento
+herança
+agregação
+B
+ME 10
+Escolha a alternativa correta:
+4
+a classe define o que uma entidade pode fazer com o objeto
+interface é utilizada para inicializar objetos
+objeto é a instanciação de uma classe
+construtor define os atributos e comportamentos compartilhados
+C
+ME 20
+O que é a identidade de um objeto?
+4
+Valor dos Atributos
+Espaço em memória
+Operação e Método
+Nenhuma das anteriores
+B

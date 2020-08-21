@@ -1,0 +1,35 @@
+Arquivo: modularizacao.txt
+Número de questões na sessão : 3
+Número de questões respondidas no jogo : 3
+Número de questões certas respondidas no jogo : 3
+Número de questões erradas respondidas no jogo : 0
+Total de pontos no jogo : 40
+
+Arquivo: heranca.txt
+Número de questões na sessão : 1
+Número de questões respondidas no jogo : 1
+Número de questões certas respondidas no jogo : 0
+Número de questões erradas respondidas no jogo : 1
+Total de pontos no jogo : -10
+
+Arquivo: classes.txt
+Número de questões na sessão : 1
+Número de questões respondidas no jogo : 1
+Número de questões certas respondidas no jogo : 0
+Número de questões erradas respondidas no jogo : 1
+Total de pontos no jogo : -10
+
+Arquivo: modularizacao.txt
+Número de questões na sessão : 2
+Número de questões respondidas no jogo : 3
+Número de questões certas respondidas no jogo : 1
+Número de questões erradas respondidas no jogo : 2
+Total de pontos no jogo : -15
+
+Arquivo: alocacao.txt
+Número de questões na sessão : 2
+Número de questões respondidas no jogo : 5
+Número de questões certas respondidas no jogo : 3
+Número de questões erradas respondidas no jogo : 2
+Total de pontos no jogo : 10
+

@@ -1,0 +1,41 @@
+Variáveis Hererogêneas em C/C++
+8
+RC 20
+Como chama o arquivo que faz a implementação das declarações feitas no arquivo de cabeçalho?
+Souce
+RC 10
+Qual o arquivo que deve ser exportado para poder ser utilizado em outras partes do código?
+Header
+RC 20
+Como é chamado o tipo nativo ou básico fornecido por uma linguagem de programação como um bloco de construção básico?
+Primitivo
+VF 20
+Struct é uma variável homogênea que contém diversas outras variáveis normalmente de tipos diferentes. (V/F)
+F
+VF 5
+Qualquer função declarada no cabeçalho precisa ser implementada no fonte, mas nem toda função existente no fonte precisa ter sido declarada. (V/F)
+V
+ME 20
+Como é chamado o processo de identificar aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais?
+4
+parâmetro
+abstração
+composição
+alocação
+B
+ME 10
+Qual o tipo primitivo que ocupa 8 bytes de memória em C/C++?
+4
+char
+int
+double
+float
+C
+ME 10
+Quantos bytes ocupa o tipo primitivo int em C/C++?
+4
+2 bytes
+8 bytes
+6 bytes
+4 bytes
+D
